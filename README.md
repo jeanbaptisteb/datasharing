@@ -7,7 +7,7 @@ Ce guide est destiné à toute personne ayant besoin de partager des données av
 * Des étudiants ou des post-docs de diverses disciplines à la recherche de conseils
 * Des étudiants en statistiques dont le travail est de collecter/nettoyer/préparer des jeux de données
 
-Les objectifs de ce guide sont de fournir des instructions sur la meilleure façon de partager des données pour éviter les écueils les plus courants et les sources de retards lors du passage de la récupération de données à l'analyse de données. Le  [Leek group](http://biostat.jhsph.edu/~jleek/) travaille avec un grand nombre de collaborateurs, et la source principale de lenteur dans la délivrance de résultats est l'état des données lorsqu'elles arrivent au Leek group. D'après mes discussions avec d'autres statisticiens, c'est quelque chose de vrai quasiment partout. 
+L'objectif de ce guide est de fournir des instructions sur la meilleure façon de partager des données pour éviter les écueils les plus courants et les sources de retards lors du passage de la récupération de données à l'analyse de données. Le  [Leek group](http://biostat.jhsph.edu/~jleek/) travaille avec un grand nombre de collaborateurs, et la source principale de lenteur dans la délivrance de résultats est l'état des données lorsqu'elles arrivent au Leek group. D'après mes discussions avec d'autres statisticiens, c'est quelque chose de vrai quasiment partout. 
 
 My strong feeling is that statisticians should be able to handle the data in whatever state they arrive. It is important
 to see the raw data, understand the steps in the processing pipeline, and be able to incorporate hidden sources of
